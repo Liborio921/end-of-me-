@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/endofme/Scenes/personalita\u03001(prova).unity"
+- path: Assets/endofme/Scenes/HUB.unity
   isLoaded: 1
   isActive: 1
