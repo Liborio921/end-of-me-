@@ -15,7 +15,7 @@ public class ShowUI : MonoBehaviour
     // Update is called once per frame
     void OnTriggerEnter(Collider player)
     {
-        if (player.gameObject.tag == "Player")
+        if ()
         {
             uiObject.text = text;
             uiObject.gameObject.SetActive(true);
