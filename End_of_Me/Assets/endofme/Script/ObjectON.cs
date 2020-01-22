@@ -10,6 +10,10 @@ public class ObjectON : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
+            Off.SetActive(false);
+        }
+        if (other.gameObject.tag == "Player")
+        {
             On.SetActive(true);
         }
     }

@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/Teleport4.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/ObjectON.cs">
     <Files>
-      <File FileName="Assets/endofme/Script/ObjectON.cs" Line="10" Column="6" />
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="13" Column="6" />
       <File FileName="Assets/endofme/Script/Teleport1.cs" Line="13" Column="6" />
       <File FileName="Assets/endofme/Script/Teleport2.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Teleport3.cs" Line="13" Column="6" />
       <File FileName="Assets/endofme/Script/Teleport4.cs" Line="13" Column="6" />
+      <File FileName="Assets/endofme/Script/Teleport5.cs" Line="13" Column="6" />
+      <File FileName="Assets/endofme/Script/Telepot6.cs" Line="13" Column="6" />
+      <File FileName="Assets/endofme/Script/ObjectON.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

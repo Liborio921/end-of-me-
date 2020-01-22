@@ -185,6 +185,8 @@
     <Compile Include="Assets\endofme\Script\Teleport2.cs" />
     <Compile Include="Assets\endofme\Script\Teleport3.cs" />
     <Compile Include="Assets\endofme\Script\Teleport4.cs" />
+    <Compile Include="Assets\endofme\Script\Teleport5.cs" />
+    <Compile Include="Assets\endofme\Script\Telepot6.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
