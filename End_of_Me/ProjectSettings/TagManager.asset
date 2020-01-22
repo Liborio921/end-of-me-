@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - Cube
+  - Selectable
   layers:
   - Default
   - TransparentFX
