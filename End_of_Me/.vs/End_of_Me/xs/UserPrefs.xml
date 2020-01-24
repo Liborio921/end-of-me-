@@ -1,13 +1,8 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/ObjectON.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/Teleport.cs">
     <Files>
-      <File FileName="Assets/endofme/Script/Teleport.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Teleport1.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Teleport2.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Teleport4.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Teleport5.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/Telepot6.cs" Line="13" Column="6" />
-      <File FileName="Assets/endofme/Script/ObjectON.cs" Line="13" Column="1" />
+      <File FileName="Assets/endofme/Script/Teleport.cs" Line="10" Column="19" />
+      <File FileName="Assets/assetstore/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +14,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d5fba7c1-1fe6-49ab-a57b-fdf0c27b39bf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48030b00-0817-4835-96d3-eaa07f1d77b5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
