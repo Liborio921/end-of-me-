@@ -27822,7 +27822,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
-<<<<<<< HEAD
 --- !u!1001 &527927755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27898,8 +27897,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 527927755}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
 --- !u!1 &535260778
 GameObject:
   m_ObjectHideFlags: 0
@@ -29287,11 +29285,11 @@ MonoBehaviour:
   overrideColor: 0
   overridingColor: {r: 1, g: 1, b: 1, a: 1}
   useShadow: 1
-<<<<<<< HEAD
+
   shadowMapRenderTexture: {fileID: 692259860}
-=======
+
   shadowMapRenderTexture: {fileID: 1651881151}
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
   useCookie: 1
   cookieMapRenderTexture: {fileID: 0}
   enableOutOfPhaseColor: 0
@@ -31553,7 +31551,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 827233004}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1001 &835917457
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31629,8 +31626,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 835917457}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> origin/elisa-nuovo
+ origin/elisa-nuovo
 --- !u!1001 &839838970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34830,11 +34826,9 @@ MonoBehaviour:
   overrideColor: 0
   overridingColor: {r: 1, g: 1, b: 1, a: 1}
   useShadow: 1
-<<<<<<< HEAD
   shadowMapRenderTexture: {fileID: 432173242}
-=======
   shadowMapRenderTexture: {fileID: 2133225573}
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
   useCookie: 1
   cookieMapRenderTexture: {fileID: 0}
   enableOutOfPhaseColor: 0
@@ -36396,11 +36390,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4613466155922955575}
-<<<<<<< HEAD
   m_RootOrder: 143
-=======
   m_RootOrder: 141
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1272723144
 MonoBehaviour:
@@ -56128,11 +56120,9 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_Name: pb_Mesh236088
-=======
   m_Name: pb_Mesh66672
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -57216,7 +57206,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1658519091}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1001 &1666457647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57292,8 +57281,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1666457647}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
 --- !u!1 &1671666172
 GameObject:
   m_ObjectHideFlags: 0
@@ -59350,11 +59338,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4613466155922955575}
-<<<<<<< HEAD
   m_RootOrder: 142
-=======
   m_RootOrder: 140
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1963182722
 AudioSource:
@@ -61415,8 +61401,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2115689661}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-=======
 --- !u!84 &2133225573
 RenderTexture:
   m_ObjectHideFlags: 0
@@ -61449,7 +61433,7 @@ RenderTexture:
     m_WrapW: 1
   m_Dimension: 2
   m_VolumeDepth: 1
->>>>>>> origin/elisa-nuovo
+origin/elisa-nuovo
 --- !u!1001 &2136193256
 PrefabInstance:
   m_ObjectHideFlags: 0
