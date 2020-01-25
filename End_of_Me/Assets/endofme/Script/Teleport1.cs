@@ -5,10 +5,22 @@ using UnityEngine;
 public class Teleport1 : MonoBehaviour
 {
     public Transform teleportTarget;
-    public GameObject thePlayer;
+    public GameObject Player;
+    bool timeToTeleport;
 
-    void OnTriggerEnter(Collider other)
+
+    private void FixedUpdate()
     {
-        thePlayer.transform.position = teleportTarget.transform.position;
+        if (timeToTeleport)
+        {
+            Player.transform.position = teleportTarget.transform.position;
+            timeToTeleport = false;
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        timeToTeleport = true;
+        print("teleporting");
     }
 }
