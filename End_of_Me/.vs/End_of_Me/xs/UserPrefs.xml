@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/triggermusic.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Aura 2/Core/Code/Shaders/ComputeShaders/ComputeMaximumDepthComputeShader.compute">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
       <File FileName="Assets/endofme/Script/Teleport1.cs" Line="13" Column="6" />
@@ -9,6 +9,7 @@
       <File FileName="Assets/endofme/Script/Telepot6.cs" Line="13" Column="6" />
       <File FileName="Assets/endofme/Script/ObjectON.cs" Line="13" Column="1" />
       <File FileName="Assets/endofme/Script/triggermusic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Aura 2/Core/Code/Shaders/ComputeShaders/ComputeMaximumDepthComputeShader.compute" Line="53" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
