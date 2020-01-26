@@ -173,6 +173,7 @@
     <Compile Include="Assets\endofme\Script\CreateObject.cs" />
     <Compile Include="Assets\endofme\Script\DestroyCube.cs" />
     <Compile Include="Assets\endofme\Script\HubReturn.cs" />
+    <Compile Include="Assets\endofme\Script\LoadFinal.cs" />
     <Compile Include="Assets\endofme\Script\MusicONof.cs" />
     <Compile Include="Assets\endofme\Script\ObjectON.cs" />
     <Compile Include="Assets\endofme\Script\playLabyrinth.cs" />
