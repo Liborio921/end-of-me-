@@ -73,5 +73,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 1, g: 0.69476426, b: 0.4575472, a: 1}
+=======
+    - _Color: {r: 0.4339623, g: 0.034798868, b: 0.034798868, a: 1}
+>>>>>>> mauro
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
