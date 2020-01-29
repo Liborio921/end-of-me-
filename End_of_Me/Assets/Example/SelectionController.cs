@@ -11,6 +11,7 @@ public class SelectionController : MonoBehaviour
     public Material materialIn;
     public Material materialOut;
     public Material materialDown;
+    public GameObject Object;
 
     public TMP_Text messageUI;
 
@@ -46,5 +47,6 @@ public class SelectionController : MonoBehaviour
     private void OnMouseUp()
     {
         _renderer.material = materialIn;
+        Object.SetActive(true);
     }
 }

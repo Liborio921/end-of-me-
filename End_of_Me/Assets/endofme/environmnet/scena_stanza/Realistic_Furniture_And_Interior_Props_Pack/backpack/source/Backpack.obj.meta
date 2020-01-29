@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: c46e2d137bf5f46a394eef2000510f25
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Backpack_lambert_Backpack1_pCube23
+    100004: Backpack_lambert_Backpack1_polySurface295
+    100006: Backpack_lambert_Backpack1_polySurface303
+    100008: Backpack_lambert_Backpack1_polySurface326
+    100010: Backpack_lambert_pCube32
+    100012: Backpack_lambert_pCylinder3
+    100014: Backpack_lambert_pCylinder5
+    100016: Backpack_lambert_polySurface291
+    100018: Backpack_lambert_polySurface292
+    100020: Backpack_lambert_polySurface3
+    100022: Backpack_lambert_polySurface351
+    100024: Backpack_lambert_polySurface354
+    100026: Backpack_lambert_polySurface4
+    100028: polySurface353_Backpack_lambert
+    400000: //RootNode
+    400002: Backpack_lambert_Backpack1_pCube23
+    400004: Backpack_lambert_Backpack1_polySurface295
+    400006: Backpack_lambert_Backpack1_polySurface303
+    400008: Backpack_lambert_Backpack1_polySurface326
+    400010: Backpack_lambert_pCube32
+    400012: Backpack_lambert_pCylinder3
+    400014: Backpack_lambert_pCylinder5
+    400016: Backpack_lambert_polySurface291
+    400018: Backpack_lambert_polySurface292
+    400020: Backpack_lambert_polySurface3
+    400022: Backpack_lambert_polySurface351
+    400024: Backpack_lambert_polySurface354
+    400026: Backpack_lambert_polySurface4
+    400028: polySurface353_Backpack_lambert
+    2100000: aiStandardSurface3SG
+    2100002: aiStandardSurface5SG
+    2100004: aiStandardSurface8SG
+    2100006: aiStandardSurface6SG
+    2100008: aiStandardSurface9SG
+    2100010: aiStandardSurface7SG
+    2100012: aiStandardSurface1SG
+    2100014: aiStandardSurface4SG
+    2100016: aiStandardSurface2SG
+    2300000: Backpack_lambert_Backpack1_pCube23
+    2300002: Backpack_lambert_Backpack1_polySurface295
+    2300004: Backpack_lambert_Backpack1_polySurface303
+    2300006: Backpack_lambert_Backpack1_polySurface326
+    2300008: Backpack_lambert_pCube32
+    2300010: Backpack_lambert_pCylinder3
+    2300012: Backpack_lambert_pCylinder5
+    2300014: Backpack_lambert_polySurface291
+    2300016: Backpack_lambert_polySurface292
+    2300018: Backpack_lambert_polySurface3
+    2300020: Backpack_lambert_polySurface351
+    2300022: Backpack_lambert_polySurface354
+    2300024: Backpack_lambert_polySurface4
+    2300026: polySurface353_Backpack_lambert
+    3300000: Backpack_lambert_Backpack1_pCube23
+    3300002: Backpack_lambert_Backpack1_polySurface295
+    3300004: Backpack_lambert_Backpack1_polySurface303
+    3300006: Backpack_lambert_Backpack1_polySurface326
+    3300008: Backpack_lambert_pCube32
+    3300010: Backpack_lambert_pCylinder3
+    3300012: Backpack_lambert_pCylinder5
+    3300014: Backpack_lambert_polySurface291
+    3300016: Backpack_lambert_polySurface292
+    3300018: Backpack_lambert_polySurface3
+    3300020: Backpack_lambert_polySurface351
+    3300022: Backpack_lambert_polySurface354
+    3300024: Backpack_lambert_polySurface4
+    3300026: polySurface353_Backpack_lambert
+    4300000: Backpack_lambert_Backpack1_pCube23
+    4300002: Backpack_lambert_Backpack1_polySurface295
+    4300004: Backpack_lambert_Backpack1_polySurface303
+    4300006: Backpack_lambert_Backpack1_polySurface326
+    4300008: Backpack_lambert_pCube32
+    4300010: Backpack_lambert_pCylinder3
+    4300012: Backpack_lambert_pCylinder5
+    4300014: Backpack_lambert_polySurface291
+    4300016: Backpack_lambert_polySurface292
+    4300018: Backpack_lambert_polySurface3
+    4300020: Backpack_lambert_polySurface351
+    4300022: Backpack_lambert_polySurface354
+    4300024: Backpack_lambert_polySurface4
+    4300026: polySurface353_Backpack_lambert
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
