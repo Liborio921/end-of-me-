@@ -1,27 +1,61 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/triggertext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Example/SelectionController.cs">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport1.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport2.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport4.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport5.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Telepot6.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/Teleport1.cs" />
+      <File FileName="Assets/endofme/Script/Teleport2.cs" />
+      <File FileName="Assets/endofme/Script/Teleport4.cs" />
+      <File FileName="Assets/endofme/Script/Teleport5.cs" />
+      <File FileName="Assets/endofme/Script/Telepot6.cs" />
       <File FileName="Assets/endofme/Script/ObjectON.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/triggermusic.cs" Line="1" Column="1" />
-      <File FileName="Assets/Aura 2/Core/Code/Shaders/ComputeShaders/ComputeMaximumDepthComputeShader.compute" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/playLabyrinth.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/HubReturn.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/OGGETTION.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" Line="22" Column="34" />
-      <File FileName="Assets/Example/SelectionController.cs" Line="50" Column="32" />
-      <File FileName="Assets/endofme/Script/triggertext.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/triggermusic.cs" />
+      <File FileName="Assets/endofme/Script/playLabyrinth.cs" />
+      <File FileName="Assets/endofme/Script/HubReturn.cs" />
+      <File FileName="Assets/endofme/Script/LoadFinal.cs" />
+      <File FileName="Assets/endofme/Script/OGGETTION.cs" />
+      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" />
+      <File FileName="Assets/Example/SelectionController.cs" Line="15" Column="41" />
+      <File FileName="Assets/endofme/Script/LOADING.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="End_of_Me" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="assetstore" expanded="True">
+                <Node name="Standard Assets" expanded="True">
+                  <Node name="Vehicles" expanded="True">
+                    <Node name="Car" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Aura 2" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="Code" expanded="True">
+                    <Node name="Shaders" expanded="True">
+                      <Node name="ComputeShaders" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="endofme" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="Example" expanded="True">
+                <Node name="SelectionController.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="838d5a14-4c95-4656-8c79-60c88a8244a9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

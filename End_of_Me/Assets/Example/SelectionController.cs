@@ -12,14 +12,20 @@ public class SelectionController : MonoBehaviour
     public Material materialOut;
     public Material materialDown;
     public GameObject Object;
+    
 
     public TMP_Text messageUI;
+    
+    
 
     public string messageIn;
     public string messageOut;
     public string messageClick;
+    
+    
 
     private MeshRenderer _renderer;
+   
     
     private void Start()
     {
@@ -42,11 +48,15 @@ public class SelectionController : MonoBehaviour
     {
         _renderer.material = materialDown;
         messageUI.text = messageClick;
+        
     }
 
     private void OnMouseUp()
     {
         _renderer.material = materialIn;
         Object.SetActive(true);
+        
     }
+
+   
 }
