@@ -25,6 +25,7 @@ public class triggertext : MonoBehaviour
         if (Player.gameObject.tag == "Player")
         {
             Canvas.SetActive(false);
+            Destroy(gameObject);
         }
     }
 }
