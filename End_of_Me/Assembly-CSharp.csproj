@@ -175,6 +175,7 @@
     <Compile Include="Assets\Clock\Scripts\Clock.cs" />
     <Compile Include="Assets\endofme\Script\CreateObject.cs" />
     <Compile Include="Assets\endofme\Script\DestroyCube.cs" />
+    <Compile Include="Assets\endofme\Script\EndLevel.cs" />
     <Compile Include="Assets\endofme\Script\HubReturn.cs" />
     <Compile Include="Assets\endofme\Script\IMMAGE.cs" />
     <Compile Include="Assets\endofme\Script\LoadFinal.cs" />
