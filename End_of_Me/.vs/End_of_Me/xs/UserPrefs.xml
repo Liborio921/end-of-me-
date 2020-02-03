@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/LOADING.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ApplicationManager.cs">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
       <File FileName="Assets/endofme/Script/Teleport1.cs" />
@@ -11,13 +11,15 @@
       <File FileName="Assets/endofme/Script/triggermusic.cs" />
       <File FileName="Assets/endofme/Script/playLabyrinth.cs" Line="1" Column="1" />
       <File FileName="Assets/endofme/Script/HubReturn.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="11" Column="33" />
+      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="4" Column="1" />
       <File FileName="Assets/endofme/Script/OGGETTION.cs" />
-      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" />
+      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" Line="1" Column="1" />
       <File FileName="Assets/Example/SelectionController.cs" Line="58" Column="9" />
       <File FileName="Assets/endofme/Script/LOADING.cs" Line="31" Column="55" />
       <File FileName="Assets/endofme/Script/triggertext.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/EndLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/EndLevel.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/PanelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ApplicationManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -50,12 +52,12 @@
                 </Node>
               </Node>
               <Node name="endofme" expanded="True">
-                <Node name="Script" expanded="True">
-                  <Node name="LOADING.cs" selected="True" />
-                </Node>
+                <Node name="Script" expanded="True" />
               </Node>
               <Node name="Example" expanded="True" />
-              <Node name="Scripts" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="ApplicationManager.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
