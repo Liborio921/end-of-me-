@@ -185,6 +185,7 @@
     <Compile Include="Assets\endofme\Script\OGGETTIOFF.cs" />
     <Compile Include="Assets\endofme\Script\OGGETTION.cs" />
     <Compile Include="Assets\endofme\Script\playLabyrinth.cs" />
+    <Compile Include="Assets\endofme\Script\QUIT.cs" />
     <Compile Include="Assets\endofme\Script\SceneSwitch.cs" />
     <Compile Include="Assets\endofme\Script\SelectionManager.cs" />
     <Compile Include="Assets\endofme\Script\ShowUI.cs" />
