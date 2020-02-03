@@ -1,27 +1,37 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/triggertext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/QUIT.cs">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport1.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport2.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport4.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Teleport5.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/Telepot6.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/Teleport1.cs" />
+      <File FileName="Assets/endofme/Script/Teleport2.cs" />
+      <File FileName="Assets/endofme/Script/Teleport4.cs" />
+      <File FileName="Assets/endofme/Script/Teleport5.cs" />
+      <File FileName="Assets/endofme/Script/Telepot6.cs" />
       <File FileName="Assets/endofme/Script/ObjectON.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/triggermusic.cs" Line="1" Column="1" />
-      <File FileName="Assets/Aura 2/Core/Code/Shaders/ComputeShaders/ComputeMaximumDepthComputeShader.compute" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/triggermusic.cs" />
       <File FileName="Assets/endofme/Script/playLabyrinth.cs" Line="1" Column="1" />
       <File FileName="Assets/endofme/Script/HubReturn.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/OGGETTION.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" Line="22" Column="34" />
-      <File FileName="Assets/Example/SelectionController.cs" Line="50" Column="32" />
+      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="4" Column="1" />
+      <File FileName="Assets/endofme/Script/OGGETTION.cs" />
+      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" Line="1" Column="1" />
+      <File FileName="Assets/Example/SelectionController.cs" Line="63" Column="1" />
+      <File FileName="Assets/endofme/Script/LOADING.cs" Line="38" Column="1" />
       <File FileName="Assets/endofme/Script/triggertext.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PanelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/QUIT.cs" Line="13" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="End_of_Me" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="838d5a14-4c95-4656-8c79-60c88a8244a9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

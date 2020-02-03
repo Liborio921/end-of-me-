@@ -9,6 +9,7 @@ TagManager:
   - Selectable
   - Teleport
   - Teleport2
+  - escape
   layers:
   - Default
   - TransparentFX
