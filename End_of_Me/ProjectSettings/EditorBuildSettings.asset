@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/QuitScene.unity
     guid: 456e4b7d0555b475f82b884af0c2f724
+  - enabled: 1
+    path: Assets/trailer.unity
+    guid: 495d7b4edae564e6da1d7e1975c50ff9
   m_configObjects: {}

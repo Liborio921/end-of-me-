@@ -1362,10 +1362,39 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 654709118800621083, guid: 67e65abf9b204401fb89da649bd82c3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -421.00003
+      objectReference: {fileID: 0}
+    - target: {fileID: 654709119881755792, guid: 67e65abf9b204401fb89da649bd82c3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -417.00003
+      objectReference: {fileID: 0}
+    - target: {fileID: 654709119881755792, guid: 67e65abf9b204401fb89da649bd82c3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 182
+      objectReference: {fileID: 0}
+    - target: {fileID: 654709119881755793, guid: 67e65abf9b204401fb89da649bd82c3b,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 654709119779203709, guid: 67e65abf9b204401fb89da649bd82c3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -121
+      objectReference: {fileID: 0}
     - target: {fileID: 654709119757702461, guid: 67e65abf9b204401fb89da649bd82c3b,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 578881296}
+    - target: {fileID: 1551756614, guid: 67e65abf9b204401fb89da649bd82c3b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -399.49466
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67e65abf9b204401fb89da649bd82c3b, type: 3}
