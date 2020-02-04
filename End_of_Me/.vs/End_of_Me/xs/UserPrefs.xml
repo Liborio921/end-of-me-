@@ -1,9 +1,12 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/mouseaudio.cs">
     <Files>
       <File FileName="Assets/endofme/Script/mouseaudio.cs" Line="1" Column="1" />
 =======
+=======
+>>>>>>> mauro
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PauseMenu2.cs">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
@@ -26,13 +29,27 @@
       <File FileName="Assets/Scripts/ApplicationManager.cs" />
       <File FileName="Assets/endofme/Script/QUIT.cs" />
       <File FileName="Assets/PauseMenu2.cs" Line="48" Column="38" />
+<<<<<<< HEAD
+>>>>>>> mauro
+=======
 >>>>>>> mauro
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="End_of_Me" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 <<<<<<< HEAD
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+=======
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0645ebe-7b38-47a9-a18b-01e691f9ce19" />
+>>>>>>> mauro
 =======
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0645ebe-7b38-47a9-a18b-01e691f9ce19" />
 >>>>>>> mauro
