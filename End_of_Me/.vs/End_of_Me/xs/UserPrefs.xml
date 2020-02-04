@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A3771669-2E96-D484-8B1C-1DC844329C64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/endofme/Script/QUIT.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PauseMenu2.cs">
     <Files>
       <File FileName="Assets/endofme/Script/Teleport.cs" Line="1" Column="1" />
       <File FileName="Assets/endofme/Script/Teleport1.cs" />
@@ -7,19 +7,20 @@
       <File FileName="Assets/endofme/Script/Teleport4.cs" />
       <File FileName="Assets/endofme/Script/Teleport5.cs" />
       <File FileName="Assets/endofme/Script/Telepot6.cs" />
-      <File FileName="Assets/endofme/Script/ObjectON.cs" Line="1" Column="1" />
+      <File FileName="Assets/endofme/Script/ObjectON.cs" />
       <File FileName="Assets/endofme/Script/triggermusic.cs" />
-      <File FileName="Assets/endofme/Script/playLabyrinth.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/HubReturn.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/LoadFinal.cs" Line="4" Column="1" />
+      <File FileName="Assets/endofme/Script/playLabyrinth.cs" />
+      <File FileName="Assets/endofme/Script/HubReturn.cs" />
+      <File FileName="Assets/endofme/Script/LoadFinal.cs" />
       <File FileName="Assets/endofme/Script/OGGETTION.cs" />
-      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" Line="1" Column="1" />
-      <File FileName="Assets/Example/SelectionController.cs" Line="63" Column="1" />
-      <File FileName="Assets/endofme/Script/LOADING.cs" Line="38" Column="1" />
-      <File FileName="Assets/endofme/Script/triggertext.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PanelManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ApplicationManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/endofme/Script/QUIT.cs" Line="13" Column="6" />
+      <File FileName="Assets/endofme/Script/OGGETTIOFF.cs" />
+      <File FileName="Assets/Example/SelectionController.cs" />
+      <File FileName="Assets/endofme/Script/LOADING.cs" />
+      <File FileName="Assets/endofme/Script/triggertext.cs" />
+      <File FileName="Assets/Scripts/PanelManager.cs" />
+      <File FileName="Assets/Scripts/ApplicationManager.cs" />
+      <File FileName="Assets/endofme/Script/QUIT.cs" />
+      <File FileName="Assets/PauseMenu2.cs" Line="48" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -31,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="838d5a14-4c95-4656-8c79-60c88a8244a9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0645ebe-7b38-47a9-a18b-01e691f9ce19" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

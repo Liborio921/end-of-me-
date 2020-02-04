@@ -1443,6 +1443,11 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1079458419}
+    - target: {fileID: 2788213917300950501, guid: 9819a7f750d3d43e6984b904e591b7c0,
+        type: 3}
+      propertyPath: m_PlaneDistance
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 2788213917300950500, guid: 9819a7f750d3d43e6984b904e591b7c0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1592,6 +1597,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2788213917792809248, guid: 9819a7f750d3d43e6984b904e591b7c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2788213918653620329, guid: 9819a7f750d3d43e6984b904e591b7c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2788213918856930217, guid: 9819a7f750d3d43e6984b904e591b7c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2788213918989488525, guid: 9819a7f750d3d43e6984b904e591b7c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2788213917357429781, guid: 9819a7f750d3d43e6984b904e591b7c0, type: 3}
