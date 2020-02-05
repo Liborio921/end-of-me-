@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.549
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.21907806, g: 0.1795094, b: 0.16849834, a: 0.549}
+  m_IndirectSpecularColor: {r: 0.21915978, g: 0.17951056, b: 0.16871646, a: 0.549}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1368,13 +1368,13 @@ MonoBehaviour:
   overrideColor: 0
   overridingColor: {r: 1, g: 1, b: 1, a: 1}
   useShadow: 1
-  shadowMapRenderTexture: {fileID: 2130959943}
+  shadowMapRenderTexture: {fileID: 749222192}
   useCookie: 1
   cookieMapRenderTexture: {fileID: 0}
   enableOutOfPhaseColor: 0
   outOfPhaseColorStrength: 0.25
   outOfPhaseColor: {r: 1, g: 0.48999998, b: 0.39999998, a: 1}
-  shadowDataRenderTexture: {fileID: 1518497784}
+  shadowDataRenderTexture: {fileID: 1791837144}
   customDistanceFalloffThreshold: 0.5
   customDistanceFalloffPower: 2
   customCookieDistanceFalloffStartThreshold: 0.1
@@ -1758,6 +1758,38 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 678958733}
   m_PrefabAsset: {fileID: 0}
+--- !u!84 &749222192
+RenderTexture:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'Aura Directional Light : Shadow Map Render Texture'
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_Width: 512
+  m_Height: 256
+  m_AntiAliasing: 1
+  m_DepthFormat: 0
+  m_ColorFormat: 11
+  m_MipMap: 0
+  m_GenerateMips: 1
+  m_SRGB: 0
+  m_UseDynamicScale: 0
+  m_BindMS: 0
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_Dimension: 2
+  m_VolumeDepth: 1
 --- !u!1001 &774074339
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2870,17 +2902,17 @@ MonoBehaviour:
   materialDown: {fileID: 2100000, guid: 57b515d7bd17e49fbb9b7ea5b0b233a0, type: 2}
   Object: {fileID: 2013449359}
   messageUI: {fileID: 47983392}
-  messageIn: "Il soggetto risulta affetto da disturbo dissociativo dell\u2019identita\u2019.
+  messageIn: "Il soggetto risulta affetto da disturbo dissociativo dell\u2019identita'.
     Si ritiene colpevole dell\u2019omicidio della sig.ra Sara Davys, nata il 02/12/1969,
-    residente a Tcoma (WA, 98048). L\u2019omicidio \xE8\u2019 stato commesso all\u2019interno
+    residente a Tcoma (WA, 98048). L\u2019omicidio e\u2019 stato commesso all\u2019interno
     dell\u2019abitazione 3296 Hillcrest Drive, di cui proprietario Arthur Hathaway.
     La polizia dopo aver accertato il decesso e dopo un analisi forense ha determinato
-    che la vittima era gia morta prima dell\u2019arrivo del signor Hathaway, percio\u2019
+    che la vittima era gia' morta prima dell\u2019arrivo del signor Hathaway, percio'
     risulta che ai fini di depistare le indagini il vero colpevole si sia approfittato
-    della situazione mentale del soggetto in questione. E\u2019 consigliato, dunque,
-    che il signor Hathaway presentando una personalit\xE0 aggressiva (che il soggetto
-    chiama Silvan) e quindi ritenetuta pericolosa, sara\u2019 sottoposto a cure mediche
-    psichiatriche in una struttura appropriata."
+    della situazione mentale del soggetto in questione. E' consigliato, dunque, che
+    il signor Hathaway presentando una personalita' aggressiva (che il soggetto chiama
+    Silvan) e quindi ritenetuta pericolosa, sara' sottoposto a cure mediche psichiatriche
+    in una struttura appropriata."
   messageOut: 
   messageClick: 
 --- !u!65 &1389000090
@@ -3221,38 +3253,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 721c340f4e6324e138bc2cc417a463e3, type: 3}
---- !u!84 &1518497784
-RenderTexture:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'Aura Directional Light : Shadow Data Render Texture'
-  m_ImageContentsHash:
-    serializedVersion: 2
-    Hash: 00000000000000000000000000000000
-  m_ForcedFallbackFormat: 4
-  m_DownscaleFallback: 0
-  m_Width: 32
-  m_Height: 1
-  m_AntiAliasing: 1
-  m_DepthFormat: 0
-  m_ColorFormat: 11
-  m_MipMap: 0
-  m_GenerateMips: 1
-  m_SRGB: 0
-  m_UseDynamicScale: 0
-  m_BindMS: 0
-  m_TextureSettings:
-    serializedVersion: 2
-    m_FilterMode: 1
-    m_Aniso: 1
-    m_MipBias: 0
-    m_WrapU: 1
-    m_WrapV: 1
-    m_WrapW: 1
-  m_Dimension: 2
-  m_VolumeDepth: 1
 --- !u!1001 &1548805554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3906,6 +3906,38 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 188090958}
   m_PrefabAsset: {fileID: 0}
+--- !u!84 &1791837144
+RenderTexture:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'Aura Directional Light : Shadow Data Render Texture'
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_Width: 32
+  m_Height: 1
+  m_AntiAliasing: 1
+  m_DepthFormat: 0
+  m_ColorFormat: 11
+  m_MipMap: 0
+  m_GenerateMips: 1
+  m_SRGB: 0
+  m_UseDynamicScale: 0
+  m_BindMS: 0
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_Dimension: 2
+  m_VolumeDepth: 1
 --- !u!1 &1820944286
 GameObject:
   m_ObjectHideFlags: 0
@@ -4710,38 +4742,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2146543532}
   m_PrefabAsset: {fileID: 0}
---- !u!84 &2130959943
-RenderTexture:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'Aura Directional Light : Shadow Map Render Texture'
-  m_ImageContentsHash:
-    serializedVersion: 2
-    Hash: 00000000000000000000000000000000
-  m_ForcedFallbackFormat: 4
-  m_DownscaleFallback: 0
-  m_Width: 512
-  m_Height: 256
-  m_AntiAliasing: 1
-  m_DepthFormat: 0
-  m_ColorFormat: 11
-  m_MipMap: 0
-  m_GenerateMips: 1
-  m_SRGB: 0
-  m_UseDynamicScale: 0
-  m_BindMS: 0
-  m_TextureSettings:
-    serializedVersion: 2
-    m_FilterMode: 1
-    m_Aniso: 1
-    m_MipBias: 0
-    m_WrapU: 1
-    m_WrapV: 1
-    m_WrapW: 1
-  m_Dimension: 2
-  m_VolumeDepth: 1
 --- !u!1 &2133041566
 GameObject:
   m_ObjectHideFlags: 0
